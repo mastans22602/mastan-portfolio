@@ -1,6 +1,6 @@
 # Mastan Shaik — Portfolio
 
-Single-page portfolio for **Shaik Mastan Vali** — Sr Graphic Designer & AI Automation Engineer.
+Single-page portfolio for **Shaik Mastan Vali** — Sr UI/UX, Graphic Designer & AI Automation Engineer.
 
 ## Open locally
 
